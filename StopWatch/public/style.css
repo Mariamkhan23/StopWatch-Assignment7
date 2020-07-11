@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(7, 6, 17);
+    text-align: center;
+    
+}
+
+h1{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    padding: 5px;
+    font-style: italic;
+    font-size: 40px;
+    border-style: outset;
+    box-shadow: 1px 1px 10px grey;
+    margin: 2px;
+    color: rgb(106, 138, 136);
+
+}
+
+button{
+    width: 80px;
+    height: 50px;
+    font-size: 20px;
+    color: rgb(14, 12, 24);
+    border-radius: 10%;
+    font-weight: bolder;
+    box-shadow: 1px 1px 10px rgb(105, 104, 104);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    cursor: pointer; 
+}
